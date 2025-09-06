@@ -14,7 +14,7 @@ Esta API permite que você:
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3.1.0**
 - **Spring Data JPA** - Para persistência de dados
 - **Spring Validation** - Para validação de dados
@@ -25,7 +25,7 @@ Esta API permite que você:
 
 Antes de executar o projeto, certifique-se de ter instalado:
 
-- **Java 17 ou superior**
+- **Java 21 ou superior**
 - **Maven 3.6 ou superior**
 - **IDE de sua preferência** (IntelliJ IDEA, Eclipse, VS Code)
 - **Postman** (para testar a API)
@@ -197,8 +197,7 @@ FilmesAPI/
 │   │   │               │   └── FilmeRepository.java       # Acesso aos dados
 │   │   │               ├── model/
 │   │   │               │   └── Filme.java                 # Entidade JPA
-│   │   │               └── exception/
-│   │   │                   └── GlobalExceptionHandler.java # Tratamento de erros
+│   │   │              
 │   │   └── resources/
 │   │       └── application.yml                            # Configurações
 │   └── test/
@@ -235,26 +234,11 @@ FilmesAPI/
 - Conexão com banco de dados H2
 - Propriedades do servidor
 
-### 🔄 Fluxo de Requisição
-
-```
-📱 Cliente (Postman)
-    ↓
-🌐 Controller (recebe requisição)
-    ↓
-🧠 Service (processa lógica)
-    ↓
-💾 Repository (acessa banco)
-    ↓
-🗃️ Banco H2 (armazena dados)
-    ↓
-📤 Resposta JSON
-```
 
 ## 📞 Contato
 
 Desenvolvido com ☕ por Geiziane Silva - geiziane.souza16@gmail.com
 
-Link do projeto: [https://github.com/geizii/filmes-api](https://github.com/geizii/filmes-api)
+Trabalho feito para fins acadêmicos
 
 
