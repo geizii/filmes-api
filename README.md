@@ -255,11 +255,6 @@ FilmesAPI/
 📤 Resposta JSON
 ```
 
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 📞 Contato
 
 Desenvolvido com ☕ por Geiziane Silva - geiziane.souza16@gmail.com
