@@ -2,17 +2,6 @@
 
 Uma API REST desenvolvida em Spring Boot para catalogar e gerenciar filmes favoritos.
 
-## 📋 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Como Executar](#como-executar)
-- [Endpoints da API](#endpoints-da-api)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-
 ## 🎯 Sobre o Projeto
 
 Esta API permite que você:
