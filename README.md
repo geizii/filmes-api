@@ -229,10 +229,6 @@ FilmesAPI/
 - Define estrutura e validações dos dados
 - Mapeamento objeto-relacional
 
-**⚠️ Exception Handler (`GlobalExceptionHandler.java`)**
-- Tratamento centralizado de exceções
-- Padroniza respostas de erro
-- Melhora experiência do usuário da API
 
 **⚙️ Configuration (`application.yml`)**
 - Configurações do Spring Boot
